@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name DCDC_QuarterBrick)(type KiCad)(uri "D:/Academics_N_Work/AAST/Semester9/Grad I/Electrical/QuickConnect/QuarterBrick_footprint")(options "")(descr ""))
+  (lib (name Version1Male)(type KiCad)(uri ${KIPRJMOD}/Version1Male.pretty)(options "")(descr ""))
+)

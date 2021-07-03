@@ -1,0 +1,10 @@
+2021.07.03
+
+Using ArduSub: https://www.ardusub.com/
+Please pay attention to the required hardware (only the Raspberry Pi 3B NON-PLUS): https://www.ardusub.com/introduction/hardware-options/required-hardware.html
+
+Any Pixhawk PX4 2.4.x works. Use QGroundControl as instructed: https://www.ardusub.com/introduction/required-software/qgroundcontrol-software.html
+We have found QGroundControl on Ubuntu 18.04 Desktop works best: https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html#ubuntu
+If the camera feed does not work, try to older versions of QGroundControl.
+
+Ubuntu allows for a multitude of joysticks, and Dualshock 3 and 4 work out of the box on Bluetooth.

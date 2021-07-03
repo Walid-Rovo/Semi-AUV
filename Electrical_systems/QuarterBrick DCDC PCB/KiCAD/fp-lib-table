@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name DeansPlugs)(type KiCad)(uri "D:/Academics_N_Work/AAST/Semester9/Grad I/Electrical/DeansPlugs")(options "")(descr ""))
+  (lib (name QuarterBrickDCDC)(type KiCad)(uri "D:/Academics_N_Work/AAST/Semester9/Grad I/Electrical/QuarterBrickDCDC")(options "")(descr ""))
+)
